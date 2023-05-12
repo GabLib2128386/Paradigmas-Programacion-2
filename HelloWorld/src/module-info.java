@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gonta
+ *
+ */
+module HelloWorld {
+}
